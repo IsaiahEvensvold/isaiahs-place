@@ -1,0 +1,12 @@
+body {
+  margin: 8px;
+  padding: 8px;
+
+  background-color: rgb(25, 25, 26);
+  color: rgb(239, 239, 239);
+  
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+
+  user-select: none;
+}
