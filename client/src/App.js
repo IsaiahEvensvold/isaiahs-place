@@ -1,13 +1,15 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
 
 import Home from './pages/Home';
+import Schoolhaus from './pages/Schoolhaus';
+import GridTest from './pages/GridTest.js';
 
 
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
-      <Home />
+      <GridTest />
     );
   }
 }
